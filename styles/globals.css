@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Thunderstorm {
+    background-color: #273440;
+    color: #fff;
+}
+.Drizzle {
+    background-color: #8caeab;
+}
+.Rain {
+    background-color: #C4D3DF;
+}
+.Snow {
+    background-color: #fffafa;
+}
+.Atmosphere {
+    background-color: #e5ccc9;
+}
+.Clear {
+    background-color: #fff;
+}
+.Clouds {
+    background-color: #00000063;
+}
+.Smoke {
+    background-color: #9ea6ad;
+}
+.Mist {
+    background-color: #646D7E;
+    color: #fff;
+}
+.Haze {
+    background-color: #c7c9c2;
+}
+.Blank {
+    background-color: #86c2f3ab !important;
+}
+
+.hide {
+    display: none;
+}
+.opacityo {
+    opacity: 0;
+}
+.editsvg {
+    width: 20px;
+}
+.abscenter {
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
